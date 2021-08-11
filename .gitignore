@@ -29,6 +29,7 @@
 .idea/
 .vs/
 .vscode/
+.cache
 /external
 Debug/
 README.html
@@ -98,3 +99,4 @@ tutorial/data
 tutorial/readme.html
 untitled
 scripts
+compile_commands.json
